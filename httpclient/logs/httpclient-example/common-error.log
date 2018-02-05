@@ -1,0 +1,42 @@
+2018-02-05 13:00:49,190 ERROR 5649 [-/127.0.0.1/-/2699ms GET /form] nodejs.ReferenceError: conosle is not defined
+    at HttpclientController.form (/Users/apple/Desktop/workspace/github/egg/httpclient/app/controller/httpclient.js:58:5)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 5649
+hostname: APPLEdeMacBook-Pro-6.local
+
+2018-02-05 13:01:57,865 ERROR 5677 [-/127.0.0.1/-/5280ms GET /form] nodejs.ResponseTimeoutError: Response timeout for 5000ms, POST https://httpbin.org/post -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":2,"requestCount":2,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/urllib/lib/urllib.js:749:15)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ResponseTimeoutError'
+requestId: 3
+data: undefined
+path: '/post'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 5280, keepAliveSocket: false, data: undefined, requestUrls: [ 'https://httpbin.org/post' ], timing: null, remoteAddress: '54.243.252.123', remotePort: 443 }
+pid: 5677
+hostname: APPLEdeMacBook-Pro-6.local
+
+2018-02-05 13:02:45,226 ERROR 5700 [-/127.0.0.1/-/6368ms GET /form] nodejs.ResponseTimeoutError: Response timeout for 5000ms, POST https://httpbin.org/post -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/urllib/lib/urllib.js:749:15)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+name: 'ResponseTimeoutError'
+requestId: 2
+data: undefined
+path: '/post'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 6357, keepAliveSocket: false, data: undefined, requestUrls: [ 'https://httpbin.org/post' ], timing: null, remoteAddress: '54.243.252.123', remotePort: 443 }
+pid: 5700
+hostname: APPLEdeMacBook-Pro-6.local
+
