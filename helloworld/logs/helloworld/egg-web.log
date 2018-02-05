@@ -1,0 +1,39 @@
+2018-02-05 11:03:03,827 INFO 4055 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/helloworld/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 11:03:03,885 INFO 4055 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/helloworld/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 11:03:03,885 INFO 4055 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/helloworld/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 11:03:04,038 INFO 4055 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/helloworld/app/public
+2018-02-05 11:03:04,047 INFO 4055 [egg-security] use csrf middleware
+2018-02-05 11:03:04,050 INFO 4055 [egg-security] use methodnoallow middleware
+2018-02-05 11:03:04,053 INFO 4055 [egg-security] use noopen middleware
+2018-02-05 11:03:04,055 INFO 4055 [egg-security] use nosniff middleware
+2018-02-05 11:03:04,066 INFO 4055 [egg-security] use xssProtection middleware
+2018-02-05 11:03:04,075 INFO 4055 [egg-security] use xframe middleware
+2018-02-05 11:03:04,079 INFO 4055 [egg-security] use dta middleware
+2018-02-05 11:03:04,079 INFO 4055 [egg-security] compose 7 middlewares into one security middleware
+2018-02-05 11:03:04,148 INFO 4055 [egg-watcher:app] watcher start success
+2018-02-05 11:04:41,227 INFO 4092 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/helloworld/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 11:04:41,283 INFO 4092 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/helloworld/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 11:04:41,283 INFO 4092 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/helloworld/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 11:04:41,423 INFO 4092 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/helloworld/app/public
+2018-02-05 11:04:41,428 INFO 4092 [egg-security] use csrf middleware
+2018-02-05 11:04:41,430 INFO 4092 [egg-security] use methodnoallow middleware
+2018-02-05 11:04:41,432 INFO 4092 [egg-security] use noopen middleware
+2018-02-05 11:04:41,433 INFO 4092 [egg-security] use nosniff middleware
+2018-02-05 11:04:41,435 INFO 4092 [egg-security] use xssProtection middleware
+2018-02-05 11:04:41,437 INFO 4092 [egg-security] use xframe middleware
+2018-02-05 11:04:41,439 INFO 4092 [egg-security] use dta middleware
+2018-02-05 11:04:41,439 INFO 4092 [egg-security] compose 7 middlewares into one security middleware
+2018-02-05 11:04:41,466 INFO 4092 [egg-watcher:app] watcher start success
+2018-02-05 11:04:42,427 INFO 4095 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/helloworld/logs/helloworld","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"helloworld-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 11:04:42,457 INFO 4095 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/helloworld/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 11:04:42,457 INFO 4095 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/helloworld/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 11:04:42,497 INFO 4095 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/helloworld/app/public
+2018-02-05 11:04:42,501 INFO 4095 [egg-security] use csrf middleware
+2018-02-05 11:04:42,501 INFO 4095 [egg-security] use methodnoallow middleware
+2018-02-05 11:04:42,502 INFO 4095 [egg-security] use noopen middleware
+2018-02-05 11:04:42,502 INFO 4095 [egg-security] use nosniff middleware
+2018-02-05 11:04:42,502 INFO 4095 [egg-security] use xssProtection middleware
+2018-02-05 11:04:42,503 INFO 4095 [egg-security] use xframe middleware
+2018-02-05 11:04:42,503 INFO 4095 [egg-security] use dta middleware
+2018-02-05 11:04:42,503 INFO 4095 [egg-security] compose 7 middlewares into one security middleware
+2018-02-05 11:04:42,528 INFO 4095 [egg-watcher:app] watcher start success
