@@ -1,0 +1,13 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node build/server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "koa": "^2.2.0"
+  }
+}

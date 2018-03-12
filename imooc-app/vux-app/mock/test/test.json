@@ -1,0 +1,9 @@
+{
+    "resultCode": "000000",
+    "result": {
+        "savePolicyInfo": true,
+        "notConformPolicyRule": "不符合领奖的规则",
+        "havePolicy": "已经领过奖"
+    },
+    "msg": "成功"
+}

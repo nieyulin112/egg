@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<script src="jquery.js"></script>
+	<script>
+		$(function () {
+			$(".btn").click(function() {
+				console.log('click', $(this).val())
+				var name = $('input').val();
+				$.ajax({
+					url: 'data.json',
+					type: 'get',
+					data: {
+						name: name
+					},
+					success: function(data) {
+						console.log('data', data);
+					}
+				})
+			});
+		});
+	</script>
+</head>
+<body>
+	<input type="text" class="input">
+	<button class="btn">提交</button>
+</body>
+</html>

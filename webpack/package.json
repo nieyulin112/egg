@@ -1,0 +1,13 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+      "build": "node build/build.js",
+      "dev": "node build/dev-server.js"
+  },
+  "dependencies": {
+    "webpack": "^2.4.1"
+  }
+}
