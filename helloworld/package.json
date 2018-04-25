@@ -1,0 +1,13 @@
+{
+  "name": "helloworld",
+  "dependencies": {
+    "egg": "^2.3.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov"
+  }
+}

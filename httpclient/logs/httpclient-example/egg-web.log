@@ -1,0 +1,132 @@
+2018-02-05 12:58:18,780 INFO 5605 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 12:58:18,820 INFO 5605 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 12:58:18,820 INFO 5605 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 12:58:18,973 INFO 5605 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 12:58:18,980 INFO 5605 [egg-security] use methodnoallow middleware
+2018-02-05 12:58:18,982 INFO 5605 [egg-security] use noopen middleware
+2018-02-05 12:58:18,985 INFO 5605 [egg-security] use nosniff middleware
+2018-02-05 12:58:18,987 INFO 5605 [egg-security] use xssProtection middleware
+2018-02-05 12:58:18,989 INFO 5605 [egg-security] use xframe middleware
+2018-02-05 12:58:18,991 INFO 5605 [egg-security] use dta middleware
+2018-02-05 12:58:18,991 INFO 5605 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 12:58:19,116 INFO 5605 [egg-watcher:app] watcher start success
+2018-02-05 13:00:43,064 INFO 5643 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:00:43,113 INFO 5643 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:00:43,113 INFO 5643 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:00:43,233 INFO 5643 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:00:43,237 INFO 5643 [egg-security] use methodnoallow middleware
+2018-02-05 13:00:43,238 INFO 5643 [egg-security] use noopen middleware
+2018-02-05 13:00:43,241 INFO 5643 [egg-security] use nosniff middleware
+2018-02-05 13:00:43,242 INFO 5643 [egg-security] use xssProtection middleware
+2018-02-05 13:00:43,244 INFO 5643 [egg-security] use xframe middleware
+2018-02-05 13:00:43,246 INFO 5643 [egg-security] use dta middleware
+2018-02-05 13:00:43,246 INFO 5643 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:00:43,359 INFO 5643 [egg-watcher:app] watcher start success
+2018-02-05 13:00:44,660 INFO 5649 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:00:44,699 INFO 5649 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:00:44,699 INFO 5649 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:00:44,753 INFO 5649 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:00:44,758 INFO 5649 [egg-security] use methodnoallow middleware
+2018-02-05 13:00:44,759 INFO 5649 [egg-security] use noopen middleware
+2018-02-05 13:00:44,759 INFO 5649 [egg-security] use nosniff middleware
+2018-02-05 13:00:44,760 INFO 5649 [egg-security] use xssProtection middleware
+2018-02-05 13:00:44,760 INFO 5649 [egg-security] use xframe middleware
+2018-02-05 13:00:44,760 INFO 5649 [egg-security] use dta middleware
+2018-02-05 13:00:44,760 INFO 5649 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:00:44,886 INFO 5649 [egg-watcher:app] watcher start success
+2018-02-05 13:01:15,668 INFO 5664 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:01:15,721 INFO 5664 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:01:15,721 INFO 5664 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:01:15,879 INFO 5664 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:01:15,883 INFO 5664 [egg-security] use methodnoallow middleware
+2018-02-05 13:01:15,885 INFO 5664 [egg-security] use noopen middleware
+2018-02-05 13:01:15,886 INFO 5664 [egg-security] use nosniff middleware
+2018-02-05 13:01:15,888 INFO 5664 [egg-security] use xssProtection middleware
+2018-02-05 13:01:15,890 INFO 5664 [egg-security] use xframe middleware
+2018-02-05 13:01:15,892 INFO 5664 [egg-security] use dta middleware
+2018-02-05 13:01:15,892 INFO 5664 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:01:15,964 INFO 5664 [egg-watcher:app] watcher start success
+2018-02-05 13:01:46,249 INFO 5677 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:01:46,281 INFO 5677 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:01:46,281 INFO 5677 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:01:46,333 INFO 5677 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:01:46,336 INFO 5677 [egg-security] use methodnoallow middleware
+2018-02-05 13:01:46,337 INFO 5677 [egg-security] use noopen middleware
+2018-02-05 13:01:46,337 INFO 5677 [egg-security] use nosniff middleware
+2018-02-05 13:01:46,338 INFO 5677 [egg-security] use xssProtection middleware
+2018-02-05 13:01:46,338 INFO 5677 [egg-security] use xframe middleware
+2018-02-05 13:01:46,338 INFO 5677 [egg-security] use dta middleware
+2018-02-05 13:01:46,338 INFO 5677 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:01:46,440 INFO 5677 [egg-watcher:app] watcher start success
+2018-02-05 13:02:28,181 INFO 5694 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:02:28,231 INFO 5694 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:02:28,231 INFO 5694 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:02:28,451 INFO 5694 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:02:28,457 INFO 5694 [egg-security] use methodnoallow middleware
+2018-02-05 13:02:28,459 INFO 5694 [egg-security] use noopen middleware
+2018-02-05 13:02:28,462 INFO 5694 [egg-security] use nosniff middleware
+2018-02-05 13:02:28,464 INFO 5694 [egg-security] use xssProtection middleware
+2018-02-05 13:02:28,465 INFO 5694 [egg-security] use xframe middleware
+2018-02-05 13:02:28,467 INFO 5694 [egg-security] use dta middleware
+2018-02-05 13:02:28,467 INFO 5694 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:02:28,575 INFO 5694 [egg-watcher:app] watcher start success
+2018-02-05 13:02:34,675 INFO 5700 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:02:34,713 INFO 5700 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:02:34,713 INFO 5700 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:02:34,766 INFO 5700 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:02:34,770 INFO 5700 [egg-security] use methodnoallow middleware
+2018-02-05 13:02:34,770 INFO 5700 [egg-security] use noopen middleware
+2018-02-05 13:02:34,771 INFO 5700 [egg-security] use nosniff middleware
+2018-02-05 13:02:34,771 INFO 5700 [egg-security] use xssProtection middleware
+2018-02-05 13:02:34,772 INFO 5700 [egg-security] use xframe middleware
+2018-02-05 13:02:34,772 INFO 5700 [egg-security] use dta middleware
+2018-02-05 13:02:34,772 INFO 5700 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:02:34,830 INFO 5700 [egg-watcher:app] watcher start success
+2018-02-05 13:03:21,354 INFO 5718 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:03:21,411 INFO 5718 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:03:21,411 INFO 5718 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:03:21,538 INFO 5718 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:03:21,542 INFO 5718 [egg-security] use methodnoallow middleware
+2018-02-05 13:03:21,544 INFO 5718 [egg-security] use noopen middleware
+2018-02-05 13:03:21,546 INFO 5718 [egg-security] use nosniff middleware
+2018-02-05 13:03:21,547 INFO 5718 [egg-security] use xssProtection middleware
+2018-02-05 13:03:21,549 INFO 5718 [egg-security] use xframe middleware
+2018-02-05 13:03:21,551 INFO 5718 [egg-security] use dta middleware
+2018-02-05 13:03:21,551 INFO 5718 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:03:21,636 INFO 5718 [egg-watcher:app] watcher start success
+2018-02-05 13:04:05,935 INFO 5732 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:04:05,983 INFO 5732 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:04:05,983 INFO 5732 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:04:06,102 INFO 5732 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:04:06,107 INFO 5732 [egg-security] use methodnoallow middleware
+2018-02-05 13:04:06,109 INFO 5732 [egg-security] use noopen middleware
+2018-02-05 13:04:06,111 INFO 5732 [egg-security] use nosniff middleware
+2018-02-05 13:04:06,112 INFO 5732 [egg-security] use xssProtection middleware
+2018-02-05 13:04:06,114 INFO 5732 [egg-security] use xframe middleware
+2018-02-05 13:04:06,116 INFO 5732 [egg-security] use dta middleware
+2018-02-05 13:04:06,116 INFO 5732 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:04:06,179 INFO 5732 [egg-watcher:app] watcher start success
+2018-02-05 13:04:07,373 INFO 5735 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:04:07,407 INFO 5735 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:04:07,407 INFO 5735 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:04:07,455 INFO 5735 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:04:07,458 INFO 5735 [egg-security] use methodnoallow middleware
+2018-02-05 13:04:07,459 INFO 5735 [egg-security] use noopen middleware
+2018-02-05 13:04:07,460 INFO 5735 [egg-security] use nosniff middleware
+2018-02-05 13:04:07,460 INFO 5735 [egg-security] use xssProtection middleware
+2018-02-05 13:04:07,460 INFO 5735 [egg-security] use xframe middleware
+2018-02-05 13:04:07,461 INFO 5735 [egg-security] use dta middleware
+2018-02-05 13:04:07,461 INFO 5735 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:04:07,576 INFO 5735 [egg-watcher:app] watcher start success
+2018-02-05 13:18:40,137 INFO 5910 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/workspace/github/egg/httpclient/logs/httpclient-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"httpclient-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-05 13:18:40,200 INFO 5910 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-05 13:18:40,200 INFO 5910 [egg-schedule]: register schedule /Users/apple/Desktop/workspace/github/egg/httpclient/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-05 13:18:40,335 INFO 5910 [egg-static] starting static serve /public/ -> /Users/apple/Desktop/workspace/github/egg/httpclient/app/public
+2018-02-05 13:18:40,339 INFO 5910 [egg-security] use methodnoallow middleware
+2018-02-05 13:18:40,341 INFO 5910 [egg-security] use noopen middleware
+2018-02-05 13:18:40,342 INFO 5910 [egg-security] use nosniff middleware
+2018-02-05 13:18:40,344 INFO 5910 [egg-security] use xssProtection middleware
+2018-02-05 13:18:40,346 INFO 5910 [egg-security] use xframe middleware
+2018-02-05 13:18:40,347 INFO 5910 [egg-security] use dta middleware
+2018-02-05 13:18:40,347 INFO 5910 [egg-security] compose 6 middlewares into one security middleware
+2018-02-05 13:18:40,431 INFO 5910 [egg-watcher:app] watcher start success
